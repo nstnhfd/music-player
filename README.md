@@ -1,4 +1,4 @@
-# music-player
+# Music-player
 music player with pyqt5
 # Description
 open dialog file and select music file to add to list and then play one by one
