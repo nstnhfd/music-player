@@ -2,7 +2,7 @@
 music player with pyqt5
 # Description
 open dialog file and select music file to add to list and then play one by one
-Email:nstnghfri9595995@gmail.com
+* Email:nstnghfri9595995@gmail.com
 # Requirements
 1. pyqt5
 2. pygame
