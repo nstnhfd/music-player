@@ -11,8 +11,8 @@ random
 time
 sys
 # Features
-Add musics to list
-play music one by one
+* Add musics to list
+* play music one by one
 mute music
 unmute music
 volume up and down
