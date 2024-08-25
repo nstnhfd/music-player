@@ -3,10 +3,7 @@ music player with pyqt5
 # Movie
 
 
-<video >
-<source src="https://github.com/user-attachments/assets/1d215a60-470c-4db8-a325-d67e7c62f37c" type="video/mp4">
- Your browser does not support the video tag.
-</video>
+https://github.com/nstnhfd/music-player/issues/1#issue-2485395232
 
 # Description
 open dialog file and select music file to add to list and then play one by one
