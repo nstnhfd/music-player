@@ -1,5 +1,12 @@
 # Music-player
 music player with pyqt5
+# Movie
+
+
+
+https://github.com/user-attachments/assets/84ddcfbf-7abf-410d-b40c-5e1420ff0852
+
+
 # Description
 open dialog file and select music file to add to list and then play one by one
 * Email:nstnghfri9595995@gmail.com
